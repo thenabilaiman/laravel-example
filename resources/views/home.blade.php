@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Welcome to Nabil First Web App</h1>
+    <h2>This is example</h2>
 </body>
 </html>
